@@ -1,0 +1,38 @@
+.header_link {
+  position: absolute;
+  margin-left: -70px;
+}
+.header_link .img {
+  width: 200px;
+  transform: rotateZ(10deg);
+  margin-top: -20px;
+}
+.header_link img {
+  width: 50%;
+  height: 100vh;
+}
+.header_link .imaa {
+  margin-left: -130px;
+  width: 550px;
+  position: absolute;
+}
+
+.header_link2 {
+  margin-left: 50%;
+  line-height: 1.7;
+}
+.header_link2 p {
+  width: 500px;
+}
+.header_link2 img {
+  margin-left: 75px;
+  margin-top: 120px;
+}
+.header_link2 h1 {
+  font-size: 250px;
+  position: absolute;
+  margin-top: -50px;
+}
+.header_link2 .link {
+  position: absolute;
+}/*# sourceMappingURL=style.css.map */
